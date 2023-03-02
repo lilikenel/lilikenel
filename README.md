@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, my name's Lilike!
 
-<!--
-**lilikenel/lilikenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently a student at WeThinkCode studying Systems Development.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on a simple game in Python using Pygame
+- 🤔 I’m looking to learn as much as I can about network security concepts and Kali
+- ⚡ Fun fact: I enjoy video production and making music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me!
+[Email](lilike.nel@gmail.com)
+
+[Twitter](https://twitter.com/lilikenel)

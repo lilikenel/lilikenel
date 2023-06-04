@@ -9,5 +9,5 @@
 
 # Connect with me!
 [Email](lilike.nel@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/lilikenel/)
 [Twitter](https://twitter.com/lilikenel)

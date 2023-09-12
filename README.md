@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 🔭 I’m currently working on a simple chat app in Python
-- 🤔 I’m looking to learn as much as I can about network security concepts
+- 🤔 I’m looking to learn as much as I can about Cyber Security
 - ⚡ Fun fact: I enjoy video production and making music
 
 # Connect with me!

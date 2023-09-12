@@ -1,6 +1,6 @@
 # Hi, my name's Lilike!
 
-### I am currently a student at WeThinkCode studying Systems Development.
+### I am currently a student at WeThinkCode_ studying Systems Development.
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 🔭 I’m currently working on a simple chat app in Python

@@ -2,8 +2,7 @@
 
 ### I am currently a student at WeThinkCode_ studying Systems Development.
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 🔭 I’m currently working on a simple chat app in Python
+- 🌱 I’m currently learning Flutter & Dart
 - 🤔 I’m looking to learn as much as I can about Cyber Security
 - ⚡ Fun fact: I enjoy video production and making music
 

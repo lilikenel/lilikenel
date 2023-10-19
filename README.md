@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning Flutter & Dart
 - 🤔 I’m looking to learn as much as I can about Cyber Security
-- ⚡ Fun fact: I enjoy video production and making music
+- ⚡ Fun fact: I enjoy video production, making music, and being active
+- 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, and Docker.
 
 # Connect with me!
 [Email](lilike.nel@gmail.com)

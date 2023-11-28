@@ -18,4 +18,4 @@
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/edc89a44-a651-45fc-b634-c29666e09a2f" />](https://git-scm.com/)
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/13c5eaef-b097-4049-97cc-ef9eb6a3830b" />](https://www.docker.com/)
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/d36c2f79-8b49-4a93-8e91-914a78f3277c" />](https://flutter.dev/)
-[<img src="https://github.com/lilikenel/lilikenel/assets/95313884/99a1c516-f1d6-4b34-b68c-eb45090bf354" />](https://www.sqlite.org/index.html)
+[<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/99a1c516-f1d6-4b34-b68c-eb45090bf354" />](https://www.sqlite.org/index.html)

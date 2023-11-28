@@ -8,6 +8,6 @@
 - 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, and Docker.
 
 # Connect with me!
-[<img src="[images/gmail.png](https://github.com/lilikenel/images/blob/main/gmail.png)" />](lilike.nel@gmail.com)
+[![image](https://github.com/lilikenel/images/blob/main/gmail.png)(lilike.nel@gmail.com)
 [<img src="images/linkedin.png" />](https://www.linkedin.com/in/lilikenel/)
 [<img src="images/twitter.png" />](https://twitter.com/lilikenel)

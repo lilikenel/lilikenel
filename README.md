@@ -10,7 +10,4 @@
 # Connect with me!
 [<img width="40" height="40" src="https://github.com/lilikenel/lilikenel/assets/95313884/f3a9f04a-7d82-45ce-8768-ae82db46261f" />](lilike.nel@gmail.com)
 [<img width="40" height="40" src="https://github.com/lilikenel/lilikenel/assets/95313884/b3b0a0f0-9555-47b2-a9bf-2ae5dd419ac8" />](https://www.linkedin.com/in/lilikenel/)
-[<img src="images/twitter.png" />](https://twitter.com/lilikenel)
-
-
-
+[<img width="40" height="40" src="https://github.com/lilikenel/lilikenel/assets/95313884/496f119d-3b71-44c1-97cc-def1306997a6" />](https://twitter.com/lilikenel)

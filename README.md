@@ -1,4 +1,6 @@
+[<img src="https://github.com/lilikenel/lilikenel/assets/95313884/14408c61-7ce4-4279-b484-7c7ee2bcd10f" />](https://www.linkedin.com/in/lilikenel/)
 # Hi, my name's Lilike!
+
 
 ### I am currently a student at WeThinkCode_ studying Systems Development.
 

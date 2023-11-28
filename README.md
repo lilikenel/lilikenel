@@ -2,7 +2,7 @@
 # Hi, my name's Lilike!
 
 
-### I am currently a student at WeThinkCode_ studying Systems Development.
+### I am currently a student at WeThinkCode_ and an aspiring Full-Stack Developer.
 
 - 🌱 I’m currently learning Flutter & Dart
 - 🤔 I’m looking to learn as much as I can about Cyber Security

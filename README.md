@@ -8,6 +8,6 @@
 - 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, and Docker.
 
 # Connect with me!
-[<img alt="alt_text" width="40px" src="images/gmail.png" />](lilike.nel@gmail.com)
-[<img alt="alt_text" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/lilikenel/)
-[<img alt="alt_text" width="40px" src="images/twitter.png" />](https://twitter.com/lilikenel)
+[<img src="images/gmail.png" />](lilike.nel@gmail.com)
+[<img src="images/linkedin.png" />](https://www.linkedin.com/in/lilikenel/)
+[<img src="images/twitter.png" />](https://twitter.com/lilikenel)

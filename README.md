@@ -8,10 +8,9 @@
 - 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, and Docker.
 
 ## Connect with me!
-[<img width="80" height="80" src="https://github.com/lilikenel/lilikenel/assets/95313884/b3b0a0f0-9555-47b2-a9bf-2ae5dd419ac8" />](https://www.linkedin.com/in/lilikenel/)
+[<img width="80" height="80" src="https://github.com/lilikenel/lilikenel/assets/95313884/496f119d-3b71-44c1-97cc-def1306997a6" />](https://www.linkedin.com/in/lilikenel/)
 
 ## Languages and Tools:
-[<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/83162396-bb85-4e61-8ad8-e4a30465f3c9" />](https://www.javascript.com/)
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/83162396-bb85-4e61-8ad8-e4a30465f3c9" />](https://www.javascript.com/)
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/7933b422-ee9a-47af-906d-aaa66bcc241c" />](https://www.java.com)
 [<img width="60" height="60" src="https://github.com/lilikenel/lilikenel/assets/95313884/c8aa7e5a-ca77-4889-a888-5c9ed2ca21ce"/>](https://www.python.org/)

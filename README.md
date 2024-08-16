@@ -1,7 +1,5 @@
 # Hi, my name's Lilike!
 
-![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/63aa5c3b-c715-4a59-9a3e-cbdcbc377679)
-
 ### I am currently a Junior Full Stack Developer.
 
 - 🌱 On the frontend I work in TypeScript using Angular 15

@@ -1,6 +1,6 @@
 # Hi, my name's Lilike!
 
-![20240613_081348](https://github.com/user-attachments/assets/15165c42-8158-47c7-9270-1014bd214064)
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/63aa5c3b-c715-4a59-9a3e-cbdcbc377679)
 
 ### I am currently a Junior Full Stack Developer.
 

@@ -1,11 +1,14 @@
 # Hi, my name's Lilike!
 
+![20240613_081348](https://github.com/user-attachments/assets/15165c42-8158-47c7-9270-1014bd214064)
 
 ### I am currently a Junior Full Stack Developer.
 
-- 🌱 I’m currently learning Angular
+- 🌱 On the frontend I work in TypeScript using Angular 15
+- 🤖 On the backend I work in C# and SQL
+- 🧠 I am currently learning more about Cyber Security in my free time
 - ⚡ Fun fact: I enjoy video production, making music, and being active
-- 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, and Docker.
+- 👨‍🍳 I have done projects using Flutter, Java, Python, and Docker.
 
 ## Connect with me!
 [<img width="80" height="80" src="https://github.com/lilikenel/lilikenel/assets/95313884/496f119d-3b71-44c1-97cc-def1306997a6" />](https://www.linkedin.com/in/lilikenel/)

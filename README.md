@@ -2,9 +2,9 @@
 
 ### I am currently a Junior Full Stack Developer.
 
-- 🌱 On the frontend I work in TypeScript using Angular 15
-- 🤖 On the backend I work in C# and SQL
-- 🧠 I am currently learning more about Cyber Security in my free time
+- 🌱 On the frontend I work in TypeScript using Angular
+- 🤖 On the backend I work in C#
+- 🧠 I am currently learning more about mobile money payment integrations (specifically Mpesa)
 - ⚡ Fun fact: I enjoy video production, making music, and being active
 - 👨‍🍳 I have done projects using Flutter, Java, Python, and Docker.
 

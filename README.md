@@ -4,7 +4,7 @@
 
 - 🌱 On the frontend I work in TypeScript using Angular
 - 🤖 On the backend I work in C#
-- 🧠 I am currently learning more about mobile money payment integrations (specifically Mpesa)
+- 🧠 I am currently learning more about game development and am working on a 2D RPG for fun in my free time
 - ⚡ Fun fact: I enjoy video production, making music, and being active
 - 👨‍🍳 I have done projects using Flutter, Java, Python, and Docker.
 

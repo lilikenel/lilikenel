@@ -1,6 +1,6 @@
 # Hi, my name's Lilike!
 
-### I am currently a Junior Full Stack Developer.
+### I am currently an intermediate Full Stack Developer.
 
 - 🌱 On the frontend I work in TypeScript using Angular
 - 🤖 On the backend I work in C#

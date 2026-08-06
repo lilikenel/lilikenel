@@ -2,11 +2,10 @@
 
 ### I am currently an intermediate Full Stack Developer.
 
-- 🌱 On the frontend I work in TypeScript using Angular
-- 🤖 On the backend I work in C#
-- 🧠 I am currently learning more about game development and am working on a 2D RPG for fun in my free time
+- 🌱 On the frontend I work in TypeScript using Angular/React
+- 🤖 On the backend I work in C# using .NET
+- 🧠 I am currently learning more about game development and am working on a 2D RPG using Pygame for fun in my free time
 - ⚡ Fun fact: I enjoy video production, making music, and being active
-- 👨‍🍳 I have done projects using Flutter, Java, Python, and Docker.
 
 ## Connect with me!
 [<img width="80" height="80" src="https://github.com/lilikenel/lilikenel/assets/95313884/496f119d-3b71-44c1-97cc-def1306997a6" />](https://www.linkedin.com/in/lilikenel/)
